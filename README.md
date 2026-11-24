@@ -11,8 +11,11 @@ I build complex, data-intensive web apps: data catalogs, ETL pipeline builders, 
 | Project | Contribution |
 |---|---|
 | [Apache Superset](https://github.com/apache/superset) | [#44529](https://github.com/apache/superset/pull/44529): fixed a long-standing Safari bug where chart and dashboard image exports came out blank |
-| [Apache Superset](https://github.com/apache/superset) | [All my Superset PRs](https://github.com/apache/superset/pulls?q=is%3Apr+author%3Ahadimobarra), including Explore typography fixes |
+| [Apache Superset](https://github.com/apache/superset) | [All my Superset PRs](https://github.com/apache/superset/pulls?q=is%3Apr+author%3Ahadimobarra), including Explore fixes in review |
+| [OpenMetadata](https://github.com/open-metadata/OpenMetadata) | [#33580](https://github.com/open-metadata/OpenMetadata/pull/33580): malformed data no longer crashes version pages |
 | [OpenMetadata](https://github.com/open-metadata/OpenMetadata) | Custom features on a fork: ETL Pipeline Editor with live YAML preview, JSON Schema i18n tooling, full Persian (RTL) localization ([my commits](https://github.com/open-metadata/OpenMetadata/commits?author=hadimobarra)) |
+
+Every claim, with its proof: [career catalog](https://hadimobarra.github.io/catalog/)
 
 ## What I work on
 
